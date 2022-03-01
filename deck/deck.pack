@@ -1,0 +1,21 @@
+﻿#include @"deck\deck.ph"
+
+% privately used packages
+#include @"pfc\gui\applicationWindow\applicationWindow.ph"
+#include @"pfc\vpi\vpi.ph"
+#include @"pfc\collection\M\varM\varM.ph"
+#include @"pfc\math\math.ph"
+#include @"pfc\collection\M\mapM_redBlack\mapM_redBlack.ph"
+#include @"pfc\list\list.ph"
+#include @"pfc\string\string.ph"
+#include @"pfc\collection\M\setM_redBlack\setM_redBlack.ph"
+#include @"pfc\std\std.ph"
+#include @"pfc\collection\collection.ph"
+#include @"card\card.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"deck\deck.pro"

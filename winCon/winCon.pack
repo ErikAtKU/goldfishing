@@ -1,0 +1,10 @@
+﻿#include @"winCon\winCon.ph"
+
+% privately used packages
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"winCon\winCon.pro"

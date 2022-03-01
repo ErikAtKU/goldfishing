@@ -1,0 +1,35 @@
+﻿% own pack
+#include @"TaskWindow\TaskWindow.ph"
+
+% privately used packages
+#include @"cardImporter\cardImporter.ph"
+#include @"displayResults\displayResults.ph"
+#include @"pfc\vpi\vpi.ph"
+#include @"pfc\multiThread\multiThread.ph"
+#include @"pfc\math\math.ph"
+#include @"pfc\collection\M\varM\varM.ph"
+#include @"pfc\list\list.ph"
+#include @"pfc\collection\M\mapM_redBlack\mapM_redBlack.ph"
+#include @"pfc\std\std.ph"
+#include @"match\match.ph"
+#include @"player\player.ph"
+#include @"pfc\string\string.ph"
+#include @"deck\deck.ph"
+#include @"aboutDialog\aboutDialog.ph"
+#include @"pfc\core.ph"
+#include @"pfc\gui\applicationWindow\applicationWindow.ph"
+#include @"pfc\gui\controls\messageControl\messageControl.ph"
+#include @"pfc\gui\documentWindow\documentWindow.ph"
+#include @"pfc\gui\gui.ph"
+#include @"pfc\resourceIdentifiers.ph"
+#include @"pfc\vpi\vpiDomains\vpiDomains.ph"
+#include @"pfc\vpi\vpiToolbar\vpiToolbar.ph"
+#include @"TaskWindow\Toolbars\Toolbars.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"TaskWindow\TaskWindow.pro"
+

@@ -1,0 +1,10 @@
+﻿#include @"prologTest\prologTest.ph"
+
+% privately used packages
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"prologTest\prologTest.pro"

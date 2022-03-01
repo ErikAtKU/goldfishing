@@ -1,0 +1,10 @@
+﻿#include @"rules\temp\temp.ph"
+
+% privately used packages
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"rules\temp\temp.pro"

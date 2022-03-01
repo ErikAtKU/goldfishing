@@ -1,0 +1,14 @@
+﻿#include @"rules\rules.ph"
+
+% privately used packages
+#include @"pfc\collection\M\setM_redBlack\setM_redBlack.ph"
+#include @"pfc\std\std.ph"
+#include @"pfc\list\list.ph"
+#include @"pfc\core.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"rules\rules.pro"

@@ -1,0 +1,16 @@
+﻿#include @"player\player.ph"
+
+% privately used packages
+#include @"pfc\collection\M\varM\varM.ph"
+#include @"pfc\string\string.ph"
+#include @"pfc\std\std.ph"
+#include @"pfc\collection\M\queueM_fact\queueM_fact.ph"
+#include @"pfc\math\math.ph"
+#include @"pfc\list\list.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"player\player.pro"
