@@ -1,0 +1,5 @@
+**/*.Scope
+**/*.obj
+**/*.deb
+**/*.tmp
+goldfishing.prjgrd
