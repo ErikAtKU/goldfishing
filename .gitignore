@@ -3,3 +3,4 @@
 **/*.deb
 **/*.tmp
 goldfishing.prjgrd
+goldfishing.env
